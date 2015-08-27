@@ -53,6 +53,7 @@ group :test do
   gem 'libnotify'
   gem 'selenium-webdriver'
   gem 'capybara'
+  gem 'factory_girl_rails'
 end
 
 group :production do
