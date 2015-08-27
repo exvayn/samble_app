@@ -36,6 +36,7 @@ group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'rspec-its' # For Rspec >= 3.0
   gem 'guard-rspec'
   gem 'spork-rails'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
